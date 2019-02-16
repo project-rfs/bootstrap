@@ -2,5 +2,5 @@
 
 # Allow crawling of all content
 User-agent: *
-Disallow:
-Sitemap: http://project-rfs.github.io/bootstrap/sitemap.xml
+Disallow: /
+Sitemap: https://project-rfs.github.io/sitemap.xml
